@@ -1,24 +1,8 @@
-# README
+# todolist
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## try to use ruby 3.0.2 and rails 7.0.0 to build a todolist app
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [ ] todolist curd with daily work
+- [ ] can run the app with rails server
+- [ ] deploy with puma
+- [ ] support mac OS desktop
